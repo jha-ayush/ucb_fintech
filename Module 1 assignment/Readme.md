@@ -1,1 +1,2 @@
-This folder contains the Loan Analyzer file + csv result file
+## Automated loan analysis calculation
+## CSV result uploaded
