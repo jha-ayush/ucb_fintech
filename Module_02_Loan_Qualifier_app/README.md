@@ -11,6 +11,13 @@ Just after the title, introduce your project by describing attractively what the
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
+*External libraries:*
+```import sys
+import fire
+import questionary
+from pathlib import Path
+```
+
 ---
 
 ## Installation Guide
