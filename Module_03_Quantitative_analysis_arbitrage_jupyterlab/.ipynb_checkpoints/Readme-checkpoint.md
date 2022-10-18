@@ -1,4 +1,4 @@
-# Cryptocurrency Arbitrag Analysis in Jupyter Lab
+# Cryptocurrency Arbitrage Analysis in Jupyter Lab
 
 ### Sort through historical trade data for Bitcoin on 2 exchanges - Bitstamp & Coinbase
 
