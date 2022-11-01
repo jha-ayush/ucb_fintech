@@ -1,5 +1,4 @@
 # Financial Planner for Clients' Emergency & Retirement portfolio
-_________________________________________________________________
 
 ## Technologies used
 - Python version: 3.8.13
@@ -17,14 +16,9 @@ _________________________________________________________________
 ### Member's portfolio spread of stocks/bonds vs cryptocurrency
 ![Member's Portfolio Spread](./images/member_portfolio_stocks-bonds_vs_crypto.PNG)
 
-_________________________________________________________________
-
 ### 30 year instances
 ![Cumulative portfolio returns](./images/500_simulations_cumulative_portfolio_returns_30_yrs.PNG)
 ![Cumulative final distribution](./images/500_simulations_distribution_final_cumulative_returns_30_yrs.PNG)
-
-
-_________________________________________________________________
 
 ### 10 year instances
 ![Cumulative portfolio returns](./images/500_simulations_cumulative_portfolio_returns_10_yrs.PNG)
