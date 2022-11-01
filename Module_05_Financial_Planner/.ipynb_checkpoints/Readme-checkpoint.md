@@ -14,12 +14,13 @@
 - pandas          : 1.4.4
 
 ### Member's portfolio spread of stocks/bonds vs cryptocurrency
-![Member's Portfolio Spread](./images/member_portfolio_stocks-bonds_vs_crypto.png)
+![Member's Portfolio Spread](./Images/member_portfolio_stocks-bonds_vs_crypto.png)
+
 
 ### 30 year instances
-![Cumulative portfolio returns](./images/500_simulations_cumulative_portfolio_returns_30_yrs.png)
-![Cumulative final distribution](./images/500_simulations_distribution_final_cumulative_returns_30_yrs.png)
+![Cumulative portfolio returns](./Images/500_simulations_cumulative_portfolio_returns_30_yrs.png)
+![Cumulative final distribution](./Images/500_simulations_distribution_final_cumulative_returns_30_yrs.png)
 
 ### 10 year instances
-![Cumulative portfolio returns](./images/500_simulations_cumulative_portfolio_returns_10_yrs.png)
-![Cumulative final distribution](./images/500_simulations_distribution_final_cumulative_returns_10_yrs.png)
+![Cumulative portfolio returns](./Images/500_simulations_cumulative_portfolio_returns_10_yrs.png)
+![Cumulative final distribution](./Images/500_simulations_distribution_final_cumulative_returns_10_yrs.png)
