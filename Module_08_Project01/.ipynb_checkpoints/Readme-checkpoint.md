@@ -1,4 +1,4 @@
-# Project Title - Stocks/ETF APIs from  
+# Project Title - Stocks/ETF APIs from ....com
 We're trying to do performance anlysis on companies or industry sectors affected during COVID in the US market. For this, we will pick timeframe from 2019-2022.
 Markets affected - eCommerce, Real Estate, Alcohol&Beverages
 
