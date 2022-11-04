@@ -17,4 +17,4 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old
 
 ### Final Visualization Images
-![Lorem Ipsum](https://g.foolcdn.com/editorial/images/640552/bitcoin-token-with-stock-market-crash-behind-it.jpg)
+![Lorem Ipsum](https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200)
