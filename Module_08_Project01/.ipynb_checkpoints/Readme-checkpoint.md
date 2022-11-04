@@ -6,8 +6,7 @@ WHAT IF I HAVE $10,000?
 Industry sectors - what sectors shot up? went down?
 
 ### Project Description/Outline
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old
-
+We will use **API** calls to pull in data from XYZ website
 ### Team members & tasks
 - **Christine Pham** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 - **Kranthi Mitta** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
