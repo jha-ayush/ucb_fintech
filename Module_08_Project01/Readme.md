@@ -22,21 +22,26 @@ We will use **API** calls to pull in data from XYZ website
 - It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old
 
 ### Datasets to be Used
-```Contrary to popular belief, Lorem Ipsum is not simply random text```. It has roots in a piece of classical Latin literature from 45 BC, making it over `2000 years old`
+```Contrary to popular belief, Lorem Ipsum is not simply random text```. 
+
+It has roots in a piece of classical Latin literature from 45 BC, making it over `2000 years old`
 
 ### Final Visualization Images
 
 **Image 1**
-<br>
+
+
 <img src="https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200" alt="Crypto" width="600" height="">
 
-**Image 1**
-<br>
+**Image 2**
+
+
 <img src="https://static.infragistics.com/marketing/reveal/solutions/crypto-analytics/reveal-solution-crypto-analytics-portfolio-dashboard-768.jpg" alt="Dashboard" width="600" height="">
 
 
 **Image 3**
-<br>
+
+
 <img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" alt="Stocks" width="600" height="">
 
 ##### Footnotes
