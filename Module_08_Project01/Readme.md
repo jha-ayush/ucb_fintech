@@ -19,7 +19,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 ### Final Visualization Images
 
 *Image 1*
-![Image 1](https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200 | | width=150)
+![Image 1](https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200 | width=150)
 
 *Image 2*
-![Image 2](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/53SOKJUJQJDG3MWT4PD4XCTHPE.jpg | | width=150)
+![Image 2](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/53SOKJUJQJDG3MWT4PD4XCTHPE.jpg | width=150)
