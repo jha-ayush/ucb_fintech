@@ -24,7 +24,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 **Image 1**
 <br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.revealbi.io%2Fcrypto-analytics&psig=AOvVaw2dijQ2McV5CrXyh-Z5GfE-&ust=1667620351797000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCsm4fQk_sCFQAAAAAdAAAAABAi" alt="Dashboard" width="600" height="">
+<img src="https://static.infragistics.com/marketing/reveal/solutions/crypto-analytics/reveal-solution-crypto-analytics-portfolio-dashboard-768.jpg" alt="Dashboard" width="600" height="">
 
 
 **Image 3**
