@@ -1,4 +1,9 @@
-# Project Title - Project 1
+# Project Title - Stocks/ETF APIs from  
+We're trying to do performance anlysis on companies or industry sectors affected during COVID in the US market. For this, we will pick timeframe from 2019-2022.
+Markets affected - eCommerce, Real Estate, Alcohol&Beverages
+
+WHAT IF I HAVE $10,000?
+Industry sectors - what sectors shot up? went down?
 
 ### Project Description/Outline
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old
@@ -7,6 +12,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 - **Christine Pham** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 - **Kranthi Mitta** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 - **Kevin Herndon** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+- **Ben Smookler** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 - **Ayush Jha** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ### Research Questions to Answer
