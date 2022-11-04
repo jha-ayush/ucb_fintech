@@ -22,9 +22,9 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 <br>
 <img src="https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200" alt="Crypto" width="600" height="">
 
-**Image 2**
+**Image 1**
 <br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F395331673535222176%2F&psig=AOvVaw2dijQ2McV5CrXyh-Z5GfE-&ust=1667620351797000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCsm4fQk_sCFQAAAAAdAAAAABAT" alt="Crypto Dashboard" width="600" height="">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.revealbi.io%2Fcrypto-analytics&psig=AOvVaw2dijQ2McV5CrXyh-Z5GfE-&ust=1667620351797000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCsm4fQk_sCFQAAAAAdAAAAABAi" alt="Dashboard" width="600" height="">
 
 
 **Image 3**
