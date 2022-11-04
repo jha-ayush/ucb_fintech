@@ -52,4 +52,4 @@ Create branches: `master`, `develop`, `feature`, `release`, `hotfix`
 
 <img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" alt="Stocks" width="600" height="">
 
-##### Footnotes
+###### Footnotes
