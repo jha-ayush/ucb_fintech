@@ -20,13 +20,13 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 **Image 1**
 <br>
-<img src="https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200" alt="Crypto" width="450" height="300">
+<img src="https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200" alt="Crypto" width="600" height="">
 
 **Image 2**
 <br>
-<img src="https://themeforest.img.customer.envatousercontent.com/files/370333618/02_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=dfbd1fd6d512b4e91ee271b7b616074d" alt="Crypto Dashboard" width="450" height="300">
+<img src="https://assets.materialup.com/uploads/efced382-7b1b-4f9d-9f89-996d53b390b4/preview.jpg" alt="Crypto Dashboard" width="600" height="">
 
 
 **Image 3**
 <br>
-<img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" alt="Stocks" width="450" height="300">
+<img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" alt="Stocks" width="600" height="">
