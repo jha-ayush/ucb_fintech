@@ -1,6 +1,6 @@
 # Project Title - Project 1
 
-## Project Description/Outline
+### Project Description/Outline
 
 ### Team members
 - Christine Pham
