@@ -22,8 +22,10 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 ![Image 1](https://imageio.forbes.com/specials-images/dam/imageserve/1135926485/0x0.jpg?format=jpg&width=1200)
 
 *Image 2*
-![Image 2](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/53SOKJUJQJDG3MWT4PD4XCTHPE.jpg)
+<br>
+<img src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/53SOKJUJQJDG3MWT4PD4XCTHPE.jpg" alt="Crypto" width="250" height="300">
+
 
 *Image 3*
 <br>
-<img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" width="250" height="300">
+<img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" alt="Stocks" width="250" height="300">
