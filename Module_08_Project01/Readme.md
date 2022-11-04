@@ -1,13 +1,14 @@
-# Project Title
-**Project 1**
+# Project Title - Project 1
 
-## Team members
+## Project Description/Outline
+
+### Team members
 Christine Pham, Kranthi Mitta, Kevin Herndon, Ayush Jha
-
-### Project Description/Outline
 
 ### Research Questions to Answer
 
 ### Datasets to be Used
 
 ### Rough Breakdown of Tasks
+
+### Final Visualization Images
