@@ -3,7 +3,10 @@
 ## Project Description/Outline
 
 ### Team members
-Christine Pham, Kranthi Mitta, Kevin Herndon, Ayush Jha
+- Christine Pham
+- Kranthi Mitta
+- Kevin Herndon
+- Ayush Jha
 
 ### Research Questions to Answer
 
