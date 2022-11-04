@@ -5,11 +5,10 @@ Markets affected - eCommerce, Real Estate, Alcohol&Beverages
 WHAT IF I HAVE $10,000?
 Industry sectors - what sectors shot up? went down?
 
-### Project Description/Outline
-We will use **API** calls to pull in data from XYZ website
-
 > [Deployment site](https://www.google.com "Project 01")
 
+### Project Description/Outline
+We will use **API** calls to pull in data from XYZ website
 
 ### Team members & tasks
 - **Christine Pham** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
