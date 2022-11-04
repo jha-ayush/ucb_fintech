@@ -8,7 +8,7 @@ Industry sectors - what sectors shot up? went down?
 ### Project Description/Outline
 We will use **API** calls to pull in data from XYZ website
 
-##### [Deployment site](https://www.google.com "Project 01")
+> [Deployment site](https://www.google.com "Project 01")
 
 
 ### Team members & tasks
@@ -21,9 +21,6 @@ We will use **API** calls to pull in data from XYZ website
 ### Research Questions to Answer
 - Contrary to popular belief, Lorem Ipsum is not simply random text.
 - It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
 
 ### Datasets to be Used
 ```Contrary to popular belief, Lorem Ipsum is not simply random text```. It has roots in a piece of classical Latin literature from 45 BC, making it over `2000 years old`
@@ -42,3 +39,5 @@ We will use **API** calls to pull in data from XYZ website
 **Image 3**
 <br>
 <img src="https://www.bankrate.com/2019/03/22142110/How-to-trade-stocks.jpg" alt="Stocks" width="600" height="">
+
+##### Footnotes
