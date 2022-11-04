@@ -26,6 +26,14 @@ We will use **API** calls to pull in data from XYZ website
 
 It has roots in a piece of classical Latin literature from 45 BC, making it over `2000 years old`
 
+### Github strategy
+Create branches: `master`, `develop`, `feature`, `release`, `hotfix`
+
+**Github branching strategy**
+
+
+<img src="https://www.flagship.io/wp-content/uploads/gitflow-branching-strategy.png" alt="Github branching strategy" width="400" height="">
+
 ### Final Visualization Images
 
 **Image 1**
