@@ -22,6 +22,9 @@ We will use **API** calls to pull in data from XYZ website
 - Contrary to popular belief, Lorem Ipsum is not simply random text.
 - It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old
 
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
 ### Datasets to be Used
 ```Contrary to popular belief, Lorem Ipsum is not simply random text```. It has roots in a piece of classical Latin literature from 45 BC, making it over `2000 years old`
 
