@@ -29,6 +29,7 @@ General to dos:
 - Montecarlo simulations
 - questionary with sql
 - dashboard
+- Web app deployment
 
 ### Team members & tasks
 - **Christine Pham** - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
