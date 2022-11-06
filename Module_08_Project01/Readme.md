@@ -1,7 +1,5 @@
 # Financial Portfolio Analysis
-We're building a financial database and web application to analyze the performances of certain long-term stocks & ETFs.
-
-We will pick timeframe(s) from FY 2019-2022.
+We're building a financial database and web application to analyze the performances of specific investment stocks & ETFs from FY 2019-2022
 
 
 > [Deployment site](https://www.google.com "Project 01")
