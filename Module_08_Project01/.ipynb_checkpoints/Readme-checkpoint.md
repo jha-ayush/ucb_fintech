@@ -1,5 +1,5 @@
 # Financial Portfolio Analysis
-We're building a financial database and web application to analyze the performances of specific investment stocks & ETFs from FY 2019-2022
+We're building a financial database and web application to analyze the performances of specific investment stocks & ETFs from FY 2018-2022 to assess the impact of COVID during and post shutdown
 
 
 > [Deployment site](https://www.google.com "Project 01")
