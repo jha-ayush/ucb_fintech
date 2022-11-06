@@ -1,9 +1,8 @@
-# Project Title - Stocks/ETF APIs from ....com
-We're trying to do performance anlysis on companies or industry sectors affected during COVID in the US market. For this, we will pick timeframe from 2019-2022.
-Markets affected - eCommerce, Real Estate, Alcohol&Beverages
+# Financial Portfolio Analysis
+We're building a financial database and web application to analyze the performances of certain long-term stocks & ETFs.
 
-WHAT IF I HAVE $10,000?
-Industry sectors - what sectors shot up? went down?
+We will pick timeframe(s) from FY 2019-2022.
+
 
 > [Deployment site](https://www.google.com "Project 01")
 
