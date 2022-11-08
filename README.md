@@ -1,2 +1,2 @@
-# ucb_fintech
-Repo for UCB Fintech Bootcamp projects
+# UC Berkeley FinTech Bootcamp
+This repository contains all the FinTech Modules assignments
