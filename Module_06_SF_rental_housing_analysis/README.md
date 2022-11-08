@@ -15,6 +15,9 @@ Used data visualization, including aggregation, interactive visualizations, and 
 - CPU cores   : 8
 - Architecture: 64bit
 
+- hvplot: 0.8.1
+- pandas: 1.3.5
+
 
 ### Member's portfolio spread of stocks/bonds vs cryptocurrency
 ![Member's Portfolio Spread](./Images/member_portfolio_stocks-bonds_vs_crypto.png)
