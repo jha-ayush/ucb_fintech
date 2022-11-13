@@ -25,5 +25,5 @@ Build a financial database and web application by using SQL, Python, and the Voi
 - numpy     : 1.21.5
 
 
-### Member's portfolio spread of stocks/bonds vs cryptocurrency
-![Member's Portfolio Spread](./Images/member_portfolio_stocks-bonds_vs_crypto.png)
+### ETF cumulative returns
+![ETF cumulative returns](./Images/etf_cumulative_returns.png)
