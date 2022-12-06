@@ -24,6 +24,3 @@ Build a financial database and web application by using SQL, Python, and the Voi
 - pandas    : 1.3.5
 - numpy     : 1.21.5
 
-
-### ETF cumulative returns
-![ETF cumulative returns](./Images/etf_cumulative_returns.png)
