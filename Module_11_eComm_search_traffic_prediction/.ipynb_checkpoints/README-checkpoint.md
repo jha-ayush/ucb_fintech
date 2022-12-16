@@ -1,23 +1,22 @@
-# Housing Rental Analysis for San Francisco
+# Forecasting Net Prophet
 
-Used data visualizations, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco, CA housing market that are viable investment opportunities.
-- Calculate and Plot the Housing Units per Year
-- Compare the Average Sale Prices by Neighborhood
-- Build an Interactive Neighborhood Map
-- Compose a Data Story
+Growth analysis on MercadoLibre, most popular e-commerce site in Latin America, by predicting search traffic that can translate into the ability to successfully trade the stock.
 
-### Technologies used
+
+## Technologies used
 - Python implementation: CPython
-- Python version       : 3.7.15
+- Python version       : 3.7.13
 - IPython version      : 7.31.1
 
-- Compiler    : GCC 11.2.0
-- OS          : Linux
-- Release     : 5.4.0-1094-azure
+- Compiler    : Clang 12.0.0 
+- OS          : Darwin
+- Release     : 22.2.0
 - Machine     : x86_64
-- Processor   : x86_64
-- CPU cores   : 2
+- Processor   : i386
+- CPU cores   : 8
 - Architecture: 64bit
 
-- hvplot: 0.8.1
 - pandas: 1.3.5
+- hvplot: 0.8.1
+
+
