@@ -1,26 +1,31 @@
-# Housing Rental Analysis for San Francisco
+# Module 12 Report Template
 
-Used data visualizations, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco, CA housing market that are viable investment opportunities.
-- Calculate and Plot the Housing Units per Year
-- Compare the Average Sale Prices by Neighborhood
-- Build an Interactive Neighborhood Map
-- Compose a Data Story
+## Overview of the Analysis
 
-### Technologies used
-- Python implementation: CPython
-- Python version       : 3.7.15
-- IPython version      : 7.31.1
+In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-- Compiler    : GCC 11.2.0
-- OS          : Linux
-- Release     : 5.4.0-1094-azure
-- Machine     : x86_64
-- Processor   : x86_64
-- CPU cores   : 2
-- Architecture: 64bit
+* Explain the purpose of the analysis.
+* Explain what financial information the data was on, and what you needed to predict.
+* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
+* Describe the stages of the machine learning process you went through as part of this analysis.
+* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
-- hvplot: 0.8.1
-- pandas: 1.3.5
+## Results
 
-### Member's portfolio spread of stocks/bonds vs cryptocurrency
-![Member's Portfolio Spread](./Images/member_portfolio_stocks-bonds_vs_crypto.png)
+Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+
+* Machine Learning Model 1:
+  * Description of Model 1 Accuracy, Precision, and Recall scores.
+
+
+
+* Machine Learning Model 2:
+  * Description of Model 2 Accuracy, Precision, and Recall scores.
+
+## Summary
+
+Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
+* Which one seems to perform best? How do you know it performs best?
+* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+
+If you do not recommend any of the models, please justify your reasoning.
