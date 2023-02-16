@@ -15,3 +15,7 @@ Step 2: Compile and Deploy Your Contract in the JavaScript VM
 
 Step 3: Interact with Your Deployed Smart Contract
 
+
+
+<sub>This project is intended for educational purposes only and should not be used in a production environment without further review and testing.</sub>
+
