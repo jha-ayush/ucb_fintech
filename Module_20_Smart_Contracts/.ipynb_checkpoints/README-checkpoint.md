@@ -21,5 +21,11 @@ To use this project, simply clone the repository and run the `joint_savings.sol`
 To use the Joint Account app, clone the repo and run the `joint_savings.sol` with Remix IDE
 
 
+1. Create and work within a local blockchain development environment using the JavaScript VM provided by the Remix IDE.
+
+2. Script and deploy a **JointSavings** smart contract.
+
+3. Interact with your deployed smart contract to transfer and withdraw funds.
+
 
 <sub>This project is intended for educational purposes only and should not be used in a production environment without further review and testing.</sub>
