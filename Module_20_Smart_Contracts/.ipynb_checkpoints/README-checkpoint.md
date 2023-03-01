@@ -28,4 +28,17 @@ To use the Joint Account app, clone the repo and run the `joint_savings.sol` wit
 3. Interact with your deployed smart contract to transfer and withdraw funds.
 
 
+### Results
+
+<img
+  src="./Resources/screenshot_01.png"
+  alt="Remix contract"
+  title=""
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+  
+  
+  
+  
+
 <sub>This project is intended for educational purposes only and should not be used in a production environment without further review and testing.</sub>
