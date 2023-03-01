@@ -31,7 +31,7 @@ To use the Joint Account app, clone the repo and run the `joint_savings.sol` wit
 ### Results
 
 <img
-  src="./Resources/screenshot_01.png"
+  src="./results/screenshot_01.png"
   alt="Remix contract"
   title=""
   style="display: inline-block; margin: 0 auto; max-width: 100px">
