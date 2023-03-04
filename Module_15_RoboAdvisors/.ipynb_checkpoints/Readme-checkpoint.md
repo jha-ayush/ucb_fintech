@@ -11,3 +11,11 @@ Existing and potentially new customers will be able to use this robo advisor to 
 - A Python script with your final Lambda function.
 - Two short videos or animated GIFs that demo your robo advisor in action from the “Test bot” pane as requested.
 
+
+
+**AWS Roboadvisor gif**
+<img
+  src="./results/Roboadvisor-GIF.gif"
+  alt="AWS Roboadvisor"
+  title="AWS Roboadvisor"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
