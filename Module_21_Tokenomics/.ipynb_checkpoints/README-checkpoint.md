@@ -1,6 +1,6 @@
 # ERC-20 fungible token app
 
-## Challenge: Martian Token Crowdsale
+## Martian Token Crowdsale
 
 Create a fungible token that is ERC-20 compliant and that will be minted by using a `Crowdsale` contract from the OpenZeppelin Solidity library.
 
@@ -199,3 +199,65 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
     * When sending ether to the contract, make sure that you meet the contract’s `goal`. Then, finalize the sale using the `Crowdsale` contract's `finalize` function. To finalize the sale, `isOpen` must return false (`isOpen` comes from `TimedCrowdsale` and checks to see whether the `close` time has passed yet). If you set the `goal` to 300 ether, for example, you may need to purchase tokens from multiple accounts in order to meet the goal. If you run out of pre-funded accounts in Ganache, you can create a new workspace.
 
     * View your tokens in MetaMask. In MetaMask, click Add Token, then click Custom Token,  and enter the token contract’s address. Make sure to purchase higher amounts of tokens in order to see the denomination appear in your wallet as more than a few wei worth.
+
+
+
+### Results
+
+
+Compiled_KaseiCoin_Contract
+<img
+  src="./results/1_Compiled_KaseiCoin_Contract.png"
+  alt="1_Compiled_KaseiCoin_Contract"
+  title="1_Compiled_KaseiCoin_Contract"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+
+Compiled_KaseiCoinCrowdsale_Contract
+<img
+  src="./results/2_Compiled_KaseiCoinCrowdsale_Contract.png"
+  alt="2_Compiled_KaseiCoinCrowdsale_Contract"
+  title="2_Compiled_KaseiCoinCrowdsale_Contract"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+
+Compiled_KaseiCoinCrowdsaleDeployer_Contract
+<img
+  src="./results/3_Compiled_KaseiCoinCrowdsaleDeployer_Contract.png"
+  alt="3_Compiled_KaseiCoinCrowdsaleDeployer_Contract"
+  title="3_Compiled_KaseiCoinCrowdsaleDeployer_Contract"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+
+Deployed_KaseiCoinCrowdsaleDeployer_with_MetaMask
+<img
+  src="./results/4_Deployed_KaseiCoinCrowdsaleDeployer_with_MetaMask.png"
+  alt="4_Deployed_KaseiCoinCrowdsaleDeployer_with_MetaMask"
+  title="4_Deployed_KaseiCoinCrowdsaleDeployer_with_MetaMask"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+
+Deployed_KaseiCoin_at_kasei_token_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract
+<img
+  src="./results/1_Compiled_KaseiCoin_Contract.png"
+  alt="5_Deployed_KaseiCoin_at_kasei_token_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract"
+  title="5_Deployed_KaseiCoin_at_kasei_token_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+  
+Deployed_KaseiCoinCrowdsale_at_kasei_crowdsale_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract
+<img
+  src="./results/6_Deployed_KaseiCoinCrowdsale_at_kasei_crowdsale_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract.png"
+  alt="6_Deployed_KaseiCoinCrowdsale_at_kasei_crowdsale_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract"
+  title="6_Deployed_KaseiCoinCrowdsale_at_kasei_crowdsale_address_generated_from_KaseiCoinCrowdsaleDeployer_Contract"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
+  
+buyTokens_for_10ETH
+<img
+  src="./results/7_buyTokens_for_10ETH.png"
+  alt="7_buyTokens_for_10ETH"
+  title="7_buyTokens_for_10ETH"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">  
+  
+  
