@@ -30,24 +30,32 @@ To use the Joint Account app, clone the repo and run the `joint_savings.sol` wit
 
 ### Results
 
+
+Deployed_JointSavings_Contract
 <img
   src="./results/screenshot_01_Deployed_JointSavings_Contract.png"
   alt="Deployed_JointSavings_Contract"
   title="Deployed_JointSavings_Contract"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
   
+  
+Executed_JointSavings
 <img
   src="./results/screenshot_02_Executed_JointSavings.setAccounts.png"
   alt="Executed_JointSavings.setAccounts"
   title="Executed_JointSavings.setAccounts"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
   
+  
+Deposited_16ETH_in_JointSaving_Contract
 <img
   src="./results/screenshot_03_Deposited_16ETH_in_JointSaving_Contract.png"
   alt="Deposited_16ETH_in_JointSaving_Contract"
   title="Deposited_16ETH_in_JointSaving_Contract"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
   
+  
+Withdrew_15ETH_from_JointSaving_Contract
 <img
   src="./results/screenshot_04_Withdrew_15ETH_from_JointSaving_Contract.png"
   alt="Withdrew_15ETH_from_JointSaving_Contract"
